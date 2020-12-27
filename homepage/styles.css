@@ -1,0 +1,20 @@
+.title
+{
+    text-align: center;
+
+}
+h1
+{
+    font-size: x-large;
+    font-style: italic;
+
+}
+h2
+{
+    display:inline;
+
+}
+body
+{
+    background-image: url("background.jpg");
+}
